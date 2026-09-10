@@ -1,0 +1,14 @@
+[
+  {
+    "title": "监管部门发布小额贷款业务合规指引（例行更新）",
+    "url": "https://example.gov.cn/notice/2026-consumer-credit-guideline",
+    "snippet": "相关部门发布年度合规指引更新，重申现有信息披露和利率上限要求，未新增审批或准入限制条款，属例行性文件更新。",
+    "published_date": "2026-06-15"
+  },
+  {
+    "title": "行业协会发布助贷业务风险提示",
+    "url": "https://example.org/industry-notice/2026-risk-alert",
+    "snippet": "行业协会针对部分渠道获客质量下滑发布风险提示，建议机构加强渠道准入审核，未涉及监管口径调整。",
+    "published_date": "2026-07-10"
+  }
+]

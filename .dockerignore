@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.git/
+.history/
+.DS_Store
+data/mock_loans.csv
